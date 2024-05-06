@@ -18,10 +18,10 @@ Definicje pożarów:
 
 ## O zbiorze danych:
 Na zbiór składa się pięć plików CSV, w każdym z nich znajdziemy informację o łącznej liczbie pożarach w Polsce, w danym województwie jak i powiecie w danym roku. Znajdziemy również informacje o tym ile wybuchło pożarów danego rodzaju.
-    Nagłówki kolumn to odpowiednio:
-    - LP. - numer indeksu liczony od 1,
-    - OGÓŁEM - suma wszyskich rodzajów pożaru lasu dla danego miejsca,
-    - Podpowierzchniowy - ilość pożarów o tym rodzaju,
-    - Pokrywy gleby - ilość pożarów o tym rodzaju,
-    - Całkowity drzew - ilość pożarów o tym rodzaju,
-    - Pojedyncze drzewo - ilość pożarów o tym rodzaju
+### Nagłówki kolumn to odpowiednio:
+- LP. - numer indeksu liczony od 1,
+- OGÓŁEM - suma wszyskich rodzajów pożaru lasu dla danego miejsca,
+- Podpowierzchniowy - ilość pożarów o tym rodzaju,
+- Pokrywy gleby - ilość pożarów o tym rodzaju,
+- Całkowity drzew - ilość pożarów o tym rodzaju,
+- Pojedyncze drzewo - ilość pożarów o tym rodzaju
